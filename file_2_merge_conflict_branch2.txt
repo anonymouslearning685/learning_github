@@ -1,8 +1,7 @@
 This is another file to make a conflict when we use git merge
 
-This is Second Step
-
 This For Testing Error
+This is Second Step
 
 Thank You
 
