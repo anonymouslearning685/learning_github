@@ -1,3 +1,5 @@
 This file propose for learning git merge with conflict condition
 
 Thank You
+
+I Hope This File Can Help You
