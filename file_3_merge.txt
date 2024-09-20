@@ -1,0 +1,3 @@
+This file 3 is for learning git merge
+
+Thank you
