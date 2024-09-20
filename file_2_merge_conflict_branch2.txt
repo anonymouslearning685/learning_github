@@ -1,5 +1,7 @@
 This is another file to make a conflict when we use git merge
 
+This is Second Step
+
 Thank You
 
 I Hope This File Can help You For Study
